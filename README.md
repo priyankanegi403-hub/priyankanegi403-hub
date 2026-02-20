@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:  --!>
 
-- 🔭 I’m currently working on Python projects (machine learning)
+- 🔭 I’m currently working on Python projects
 - 🌱 I’m currently learning Python and Java
-- 📫 How to reach me: via email - negipri28@gmail.com
+- 📫 How to reach me: via email - priyankanegi403@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love reading novels, coding
 
